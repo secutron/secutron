@@ -4,7 +4,7 @@ Welcome to my page!
 I'm Hyun, AI researcher from LG AI Research, currently living in <img src='ico/KR@2x.png?raw=true' width='21' height='15'>Seoul, Korea.
 
 <h2> My tech stack </h2>
-
+<p>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,7 +24,7 @@ I'm Hyun, AI researcher from LG AI Research, currently living in <img src='ico/K
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
- 
+</p> 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=secutron&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="secutron" /></p>
 
 <!--
