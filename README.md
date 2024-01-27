@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Nice to see you.
+
+Welcome to my page!
+I'm Hyun, AI researcher from LG AI Research, currently living in <img src='png/KR@2x.png?raw=true' width='21' height='15'>Seoul, Korea.
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=secutron&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="secutron" /></p>
 
