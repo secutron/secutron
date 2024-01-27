@@ -1,4 +1,4 @@
-### Hi there 👋 Nice to see you.
+<h1> Hi there 👋 Nice to see you. </h1>
 
 Welcome to my page!
 I'm Hyun, AI researcher from LG AI Research, currently living in <img src='ico/KR@2x.png?raw=true' width='21' height='15'>Seoul, Korea.
